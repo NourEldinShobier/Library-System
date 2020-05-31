@@ -1,0 +1,3 @@
+C How to Program,Paul Deitel,Pearson Education. Inc,0-13-612956-2,29/10/2009,1,1,Programming
+Nour Shobier,Paul Deitel,Pearson Education. Inc,0-13-662356-2,29/10/2009,6,6,Cat
+Ali Ahmed,Paul Deitel,Pearson Education. Inc,0-13-5812356-2,29/10/2009,1,1,Dog

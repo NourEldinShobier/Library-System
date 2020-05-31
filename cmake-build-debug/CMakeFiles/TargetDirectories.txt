@@ -1,0 +1,3 @@
+C:/Users/Nour/CLionProjects/LBSGit/cmake-build-debug/CMakeFiles/LibrarySystem.dir
+C:/Users/Nour/CLionProjects/LBSGit/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nour/CLionProjects/LBSGit/cmake-build-debug/CMakeFiles/rebuild_cache.dir
